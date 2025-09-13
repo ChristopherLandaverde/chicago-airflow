@@ -135,14 +135,3 @@ flowdbt/
 - **Research**: Crime pattern analysis and trend identification
 - **Policy Making**: Data-driven decision support
 
-## 🤝 Contributing
-
-This is a portfolio project demonstrating end-to-end data science capabilities including:
-- Data engineering and pipeline development
-- Machine learning model development
-- Interactive dashboard creation
-- Production-ready deployment considerations
-
-## 📄 License
-
-This project is for portfolio demonstration purposes.
