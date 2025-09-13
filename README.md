@@ -2,6 +2,10 @@
 
 A comprehensive machine learning pipeline and interactive dashboard for analyzing Chicago crime data using advanced clustering algorithms and time series forecasting.
 
+## 🚀 Live Demo
+
+**[View the live dashboard →](https://chicagoairflow.streamlit.app/)**
+
 ## 🚀 Features
 
 - **Interactive Streamlit Dashboard** with 4 main views:
@@ -80,7 +84,8 @@ A comprehensive machine learning pipeline and interactive dashboard for analyzin
    ```
 
 5. **Access the dashboard**
-   - Open your browser to `http://localhost:8501`
+   - **Live Demo**: https://chicagoairflow.streamlit.app/
+   - **Local Development**: `http://localhost:8501`
 
 ## 📁 Project Structure
 
