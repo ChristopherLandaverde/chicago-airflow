@@ -1,0 +1,16 @@
+{
+  "export_date": "2025-09-13T19:15:19.433582",
+  "files": {
+    "crime_features.csv": "5000 records (sample)",
+    "crime_hotspots.csv": "17 hotspots",
+    "crime_forecasts.csv": "21 forecasts",
+    "summary_stats.json": "Overall statistics and model performance"
+  },
+  "data_summary": {
+    "total_original_records": "50000",
+    "date_range": "2023-01-01 00:00:00 to 2023-03-16 15:00:00",
+    "crime_types": "30",
+    "hotspots_identified": 17,
+    "forecasts_generated": 21
+  }
+}

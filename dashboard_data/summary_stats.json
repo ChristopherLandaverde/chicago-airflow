@@ -1,0 +1,312 @@
+{
+  "overall_stats": {
+    "total_records": 50000,
+    "crime_types": 30,
+    "start_date": "2023-01-01 00:00:00",
+    "end_date": "2023-03-16 15:00:00",
+    "violent_crimes": 14228,
+    "property_crimes": 23400,
+    "with_coordinates": 49548,
+    "avg_distance_from_center": 6.644850448050375
+  },
+  "crime_distribution": [
+    {
+      "primary_type": "THEFT",
+      "count": 10322,
+      "percentage": 20.64
+    },
+    {
+      "primary_type": "BATTERY",
+      "count": 7958,
+      "percentage": 15.92
+    },
+    {
+      "primary_type": "MOTOR VEHICLE THEFT",
+      "count": 6043,
+      "percentage": 12.09
+    },
+    {
+      "primary_type": "CRIMINAL DAMAGE",
+      "count": 5412,
+      "percentage": 10.82
+    },
+    {
+      "primary_type": "ASSAULT",
+      "count": 4033,
+      "percentage": 8.07
+    },
+    {
+      "primary_type": "DECEPTIVE PRACTICE",
+      "count": 3857,
+      "percentage": 7.71
+    },
+    {
+      "primary_type": "OTHER OFFENSE",
+      "count": 3206,
+      "percentage": 6.41
+    },
+    {
+      "primary_type": "ROBBERY",
+      "count": 1814,
+      "percentage": 3.63
+    },
+    {
+      "primary_type": "WEAPONS VIOLATION",
+      "count": 1703,
+      "percentage": 3.41
+    },
+    {
+      "primary_type": "BURGLARY",
+      "count": 1536,
+      "percentage": 3.07
+    },
+    {
+      "primary_type": "NARCOTICS",
+      "count": 1339,
+      "percentage": 2.68
+    },
+    {
+      "primary_type": "CRIMINAL TRESPASS",
+      "count": 980,
+      "percentage": 1.96
+    },
+    {
+      "primary_type": "OFFENSE INVOLVING CHILDREN",
+      "count": 415,
+      "percentage": 0.83
+    },
+    {
+      "primary_type": "CRIMINAL SEXUAL ASSAULT",
+      "count": 319,
+      "percentage": 0.64
+    },
+    {
+      "primary_type": "SEX OFFENSE",
+      "count": 256,
+      "percentage": 0.51
+    },
+    {
+      "primary_type": "PUBLIC PEACE VIOLATION",
+      "count": 145,
+      "percentage": 0.29
+    },
+    {
+      "primary_type": "HOMICIDE",
+      "count": 104,
+      "percentage": 0.21
+    },
+    {
+      "primary_type": "INTERFERENCE WITH PUBLIC OFFICER",
+      "count": 104,
+      "percentage": 0.21
+    },
+    {
+      "primary_type": "STALKING",
+      "count": 101,
+      "percentage": 0.2
+    },
+    {
+      "primary_type": "ARSON",
+      "count": 87,
+      "percentage": 0.17
+    },
+    {
+      "primary_type": "PROSTITUTION",
+      "count": 85,
+      "percentage": 0.17
+    },
+    {
+      "primary_type": "INTIMIDATION",
+      "count": 62,
+      "percentage": 0.12
+    },
+    {
+      "primary_type": "CONCEALED CARRY LICENSE VIOLATION",
+      "count": 42,
+      "percentage": 0.08
+    },
+    {
+      "primary_type": "LIQUOR LAW VIOLATION",
+      "count": 38,
+      "percentage": 0.08
+    },
+    {
+      "primary_type": "KIDNAPPING",
+      "count": 21,
+      "percentage": 0.04
+    },
+    {
+      "primary_type": "OBSCENITY",
+      "count": 10,
+      "percentage": 0.02
+    },
+    {
+      "primary_type": "HUMAN TRAFFICKING",
+      "count": 3,
+      "percentage": 0.01
+    },
+    {
+      "primary_type": "GAMBLING",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "primary_type": "OTHER NARCOTIC VIOLATION",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "primary_type": "PUBLIC INDECENCY",
+      "count": 1,
+      "percentage": 0.0
+    }
+  ],
+  "hourly_distribution": [
+    {
+      "hour": 0,
+      "crimes": 3754,
+      "violent_rate": 22.3
+    },
+    {
+      "hour": 1,
+      "crimes": 1542,
+      "violent_rate": 35.1
+    },
+    {
+      "hour": 2,
+      "crimes": 1347,
+      "violent_rate": 37.0
+    },
+    {
+      "hour": 3,
+      "crimes": 1082,
+      "violent_rate": 35.3
+    },
+    {
+      "hour": 4,
+      "crimes": 929,
+      "violent_rate": 33.7
+    },
+    {
+      "hour": 5,
+      "crimes": 888,
+      "violent_rate": 36.0
+    },
+    {
+      "hour": 6,
+      "crimes": 904,
+      "violent_rate": 34.2
+    },
+    {
+      "hour": 7,
+      "crimes": 1258,
+      "violent_rate": 29.0
+    },
+    {
+      "hour": 8,
+      "crimes": 1690,
+      "violent_rate": 27.0
+    },
+    {
+      "hour": 9,
+      "crimes": 2145,
+      "violent_rate": 25.6
+    },
+    {
+      "hour": 10,
+      "crimes": 2202,
+      "violent_rate": 26.3
+    },
+    {
+      "hour": 11,
+      "crimes": 2187,
+      "violent_rate": 28.6
+    },
+    {
+      "hour": 12,
+      "crimes": 3074,
+      "violent_rate": 23.0
+    },
+    {
+      "hour": 13,
+      "crimes": 2281,
+      "violent_rate": 26.7
+    },
+    {
+      "hour": 14,
+      "crimes": 2430,
+      "violent_rate": 29.4
+    },
+    {
+      "hour": 15,
+      "crimes": 2900,
+      "violent_rate": 31.8
+    },
+    {
+      "hour": 16,
+      "crimes": 2718,
+      "violent_rate": 30.9
+    },
+    {
+      "hour": 17,
+      "crimes": 2782,
+      "violent_rate": 25.8
+    },
+    {
+      "hour": 18,
+      "crimes": 2677,
+      "violent_rate": 27.5
+    },
+    {
+      "hour": 19,
+      "crimes": 2616,
+      "violent_rate": 27.8
+    },
+    {
+      "hour": 20,
+      "crimes": 2476,
+      "violent_rate": 27.8
+    },
+    {
+      "hour": 21,
+      "crimes": 2248,
+      "violent_rate": 25.7
+    },
+    {
+      "hour": 22,
+      "crimes": 2018,
+      "violent_rate": 29.3
+    },
+    {
+      "hour": 23,
+      "crimes": 1852,
+      "violent_rate": 33.3
+    }
+  ],
+  "model_performance": {
+    "clustering_models": {
+      "kmeans": {
+        "silhouette_score": 0.73,
+        "clusters": 4,
+        "total_records": 5000
+      },
+      "dbscan": {
+        "silhouette_score": 0.81,
+        "clusters": 13,
+        "noise_points": 1247
+      }
+    },
+    "forecasting_models": {
+      "arima": {
+        "mae": 45.2,
+        "rmse": 58.7,
+        "mape": 12.3
+      },
+      "prophet": {
+        "mae": 48.7,
+        "rmse": 62.1,
+        "mape": 13.8
+      }
+    }
+  }
+}
